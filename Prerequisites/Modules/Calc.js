@@ -6,7 +6,7 @@ export function Sub(a, b) {
 } 
 export function Mul(a, b) {
     console.log(a * b)
-} 
+}   
 export function Div(a, b) {
     console.log(a / b)
 }

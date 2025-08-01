@@ -15,4 +15,4 @@ Mul(10, 20)
 
 Div(10, 20)
 
-console.log(areaOfRectangle(2,20))
+console.log(areaOfRectangle(2,200))
