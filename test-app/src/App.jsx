@@ -13,7 +13,8 @@ function App() {
     <>
       {/* <Conditional/> */}
       {/* <Props/> */}
-      <Events/>
+      {/* <Events/> */}
+      {/* <renderer/> */}
 
     </>
   )
