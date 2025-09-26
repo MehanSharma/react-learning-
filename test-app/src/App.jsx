@@ -5,6 +5,7 @@ import './App.css'
 import Conditional from './Topics/Conditional'
 import Props from './Topics/Props'
 import Events from './Topics/Events'
+import Forms from './Topics/Forms'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,7 +16,7 @@ function App() {
       {/* <Props/> */}
       {/* <Events/> */}
       {/* <renderer/> */}
-
+      <Forms/>
     </>
   )
 }
